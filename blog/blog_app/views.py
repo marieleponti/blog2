@@ -11,7 +11,6 @@ posts = [
 
     {
         'author': 'Lola',
-        'title': 'blog post 2',
         'content': 'her content',
         'date': '13 Sept 2023'
     }
@@ -23,4 +22,4 @@ def home(request):
 
 
 def about(request):
-    return render(request, 'blog_app/about.html')
+    return render(request, 'blog_app/about.html', {'title': 'About'})
