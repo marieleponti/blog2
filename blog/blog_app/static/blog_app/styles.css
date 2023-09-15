@@ -27,6 +27,10 @@ body {
   .site-header .navbar-nav .nav-link.active {
     font-weight: 500;
   }
+
+  .site-header {
+    margin-bottom: 7rem;
+  }
   
   .content-section {
     background: #ffffff;
