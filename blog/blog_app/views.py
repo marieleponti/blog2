@@ -11,6 +11,7 @@ posts = [
 
     {
         'author': 'Lola',
+        'title': 'blog post 2',
         'content': 'her content',
         'date': '13 Sept 2023'
     }
