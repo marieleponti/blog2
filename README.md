@@ -1,2 +1,2 @@
 
-Blog web app in Python with Django. Bootstrap for styleing.
+Blog web app in Python with Django. Bootstrap for styling.
