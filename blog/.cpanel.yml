@@ -1,0 +1,6 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/mariel19/repositories/blog
+ - /bin/cp index.html $DEPLOYPATH
+ - /bin/cp -R BLOG $DEPLOYPATH
